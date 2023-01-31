@@ -1,0 +1,23 @@
+.container-fluid {
+  background-color: #905e96;
+  padding: 3% 15%;
+}
+
+.brand {
+  color: #fff;
+  font-family: cursive;
+}
+
+.card {
+  background-color: #905e96;
+  width: 60%;
+  flex-direction: row;
+  padding: 2px 0;
+  margin: 2px 0;
+}
+
+.col-names {
+  color: #fff;
+  margin: 50px 0;
+  background-color: #212529;
+}
